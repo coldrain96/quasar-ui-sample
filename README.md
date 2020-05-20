@@ -1,22 +1,15 @@
-# Quasar App (quasar-ui-sample)
+# Quasar-ui-sample
+Simple application based on Quasar framework
 
-A Quasar Framework app
+## Сборка и деплой проекта.
+1. Проверить установлен ли Node.js на компьютере командой "node --version".
+Установить, если отсутствует.
+1. Перейти в папку quasar-ui-sample.
+2. Выполнить команду "npm install".
+3. Выполнить команду "quasar dev".
 
-## Install the dependencies
-```bash
-npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+## Использованные инструменты:
++ Frontend: Quasar framework, vue-templates, vuex
++ git
+## Примечания
++ Отсутствуют
